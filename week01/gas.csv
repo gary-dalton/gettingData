@@ -1,0 +1,95 @@
+"","Table.Name..Contract","NA.","NA..1","NA..2","NA..3","NA..4","NA..5","NA..6","NA..7","NA..8","NA..9","NA..10","NA..11","NA..12","NA..13","NA..14","NA..15","NA..16","NA..17","NA..18","NA..19","NA..20","NA..21","NA..22","NA..23","NA..24"
+"1","ContractNumber","ContractorId","ExpiryDate","CFileName","ReactivationDt",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","GS-00P-02-BSC-0201","23","2004-09-30 00:00:00",NA,"2004-09-30 00:00:00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","GS-00P-02-BSC-0204","5","2003-10-31 00:00:00","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","GS-00P-02-BSC-0206","6","2004-10-31 00:00:00",NA,"2004-11-02 00:00:00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","GS-00P-02-BSC-0207","4","2006-10-31 00:00:00",NA,"2004-11-01 00:00:00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","GS-00P-02-BSC-0209","7","2004-10-31 00:00:00",NA,"2004-11-01 00:00:00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Table Name: ContractFacilityLDC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","ConFacCode","ContractCost","FlowDate","ContractMonths","ContractType","Checked",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","316","4.15","2002-11-01 00:00:00","24","Firm Fixed","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","340","4.6","2002-11-01 00:00:00","24","Firm Fixed","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","274","4.2299","2002-11-01 00:00:00","24",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","193","7.388","2005-02-01 00:00:00","24","Fixed","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","610","1","2005-11-01 00:00:00","12","Variable","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Table Name: Contractor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","StateAbbrev","CName","Address1","Address2","Address3","City","Zip","CuCurrent","PaCurrent","PoCurrent","Contact","Ext","Fax","email","Status",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","OK","Tiger Natural Gas","1422 E 71st  Suite J",NA,NA,"Tulsa","74136","0","1","0","918-491-6998","0","918-491-6659",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","GA","PS Energy","2987 Clairmont Rd","Suite 500",NA,"Atlanta","30329","1","0","0","404-321-5711",NA,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","OK","Geary Energy","7712 S Yale Ave","Suite 201",NA,"Tulsa","74136","1","0","0","918-523-2516","0","918-523-2522",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","CO","Utility Resource Solutions","1700 Lincoln St.","Suite 2530",NA,"Denver","80203","0","1","0","303-864-1919","0",NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","CO","Select Natural Gas LLC","8122 Southpark Lane","Suite 204",NA,"Littleton","80120","1","0","0","345-098-8890","456",NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Table Name: Facility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","FacilityCode","SCity","SZip","BName","BCity","BState","BZip","Mtelemetry","Cucustomer","Pacustomer","PoCustomer","InvoicesNeeded","InvoiceMonths","GSA","MajorTypeId",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","AL030004","Talladega","35160","NULL",NA,"  ",NA,"0","0","0","1","0","NULL","0","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","AR030004","Forrest City","72336-7000","NULL","Forrest City","AR","72336-7000","0","0","0","1","0","NULL","0","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","AR030104","na","75501","NULL","na","AR","75501","0","0","0","1","0"," ","0","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","AR150232","Stuttgart","72160","NULL","Stuttgart","AR","72160","0","1","0","0","NULL","NULL","0","15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","AZ010001","Mesa","NA","NULL","NULL","NULL","NULL","0","1","0","0","0"," ","0","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Table Name: FacilityLDC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","LDCId","FacilityCode","EstVolume","Unit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","39","NY0270ZZ","9923","Mmbtu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","25","PA010501","52681","Mmbtu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","17","MI010201","NULL","Mmbtu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","20","NY0026ZZ","5621","Mmbtu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","1","MA080502","14947","Mmbtu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Table Name: LDC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","StateAbbrev","Lname","Address1","Address2","Address3","City","Zip","Emergency",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","MA","Columbia Gas of Massachusetts","2025 Roosevelt Ave",NA,NA,"Springfield","1104","800-688-6160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","WA","Cascade Natural Gas","N/A","N/A","N/A","N/A","N/A","N/A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","NULL","Central Hudson Gas","N/A","N/A","N/A","N/A","N/A","N/A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","OH","Cincinnati Gas & Electric","N/A","N/A","N/A","N/A","N/A","N/A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","AZ","Citizens Utilities","N/A","N/A","N/A","N/A","N/A","N/A",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Table Name: Master_Facility",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","BldgNum","RegnNum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","AK0001ZZ              ","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","AK0005AK              ","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","AK0009ZZ              ","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","AK0013ZZ              ","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","AK0020ZZ              ","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Table Name: POC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","StateAbbrev","Title","POCPosition","FirstName","LastName","NickName","Address1","Address2","Address3","City","Zip","Phone","Ext","Fax","Emergency","Email","CellPhone","Comments",NA,NA,NA,NA,NA,NA,NA,NA
+"58","NC","NULL","Chief Financial Officer","Albert","Brese","NULL","300 Morgan St.","Suite 1402","NULL","Durham","27701","919-956-5541","NULL","919- 956-7152","NULL","al.brese@med.va.gov","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA
+"59","AZ","NULL","NULL","Albert","Iamiceli","NULL","500 Highway 89 North","NULL","NULL","Prescott","86313","928-717-7472","NULL","716- 344-3303","NULL","albert.iamiceli@med.va.gov","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA
+"60","KS","Mr.","Boiler Plant Operator","Alex","Strouhal","NULL","4101 S. 4th Street, Traff","NULL","NULL","Leavenwoth","66048","913-682-2000","x2951","913- 758-4230","NULL","NULL","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA
+"61","DC","   ","Energy Coordinator","Amy","Hudson",NA,"General Svcs Admin (WPY)","301 7th St. SW","Room 7512","Washington","20024","202-708-4995",NA,"202-401-3722","202-497-6164","amy.hudson@gsa.gov","202-497-6164",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","VA","   ",NA,"Angel","Perry",NA,"1234 I don't know Ave.",NA,NA,"Petersburg","0","804-504-7200","1067","804-504-7227","804-504-7200","aperry@bop.gov",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Table Name: POCEntitySubContact",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","ContSubId","ContSubTypeName",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","9","Primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","9","Primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","9","Primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","10","Secondary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","9","Primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Table Name: tblCostUsageTest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Flag_DC","OLD_Penalty_Adj","OLD_Supplier_Adj","CostUsageId","LDC_Vol","LDC_Vol_Adj","LDC_Org_Cost","LDC_Cost_Adj","LDC_Misc_Fee","LDC_FinalVolume","LDC_FinalCost","LDC_UnitPrice","LDC_UnitPrice_Original","Supp_Vol","Supp_Vol_Adj","Supp_Org_Cost","Supp_Cost_Adj","Supp_Misc_fee","Supp_FinalVolume","Supp_FinalCost","Supp_UnitPrice","CU_Year","CU_Month","FacilityCode","Total_FinalCost","BT_Cost"
+"74","          ","NULL","NULL","1","50.6","NULL","139.98","NULL","NULL","50.6","139.98","2.76640316205534","NULL","50.6","NULL","350.152","0","NULL","50.6","350.152","6.92","NULL","1","VA0003ZZ","490.13","9.69"
+"75","DC        ","NULL","NULL","2","100.98","NULL","312.95","NULL","NULL","100.98","312.95","3.09912854030501","NULL","100.98","NULL","757.35","0","NULL","100.98","757.35","7.5","NULL","2","VA0003ZZ","1070.3","10.6"
+"76","DC        ","NULL","NULL","3","237.02","NULL","644.04","NULL","NULL","237.02","644.04","2.71723905155683","NULL","237.02","NULL","1777.65","0","NULL","237.02","1777.65","7.5","NULL","3","VA0003ZZ","2421.69","10.22"
+"77","DC        ","NULL","NULL","4","335.04","NULL","877.87","NULL","NULL","335.04","877.87","2.62019460362942","NULL","335.04","NULL","2512.8","0","NULL","335.04","2512.8","7.5","NULL","4","VA0003ZZ","3390.67","10.12"
+"78","DC        ","NULL","NULL","5","242.33","NULL","656.73","NULL","NULL","242.33","656.73","2.71006478768621","NULL","242.33","NULL","1817.475","0","NULL","242.33","1817.475","7.5","NULL","5","VA0003ZZ","2474.2","10.21"
+"79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Table Name: tblInvoiceMaster",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","FacilityCode","InvoiceTypeID","InvYear","InvMonth","InvFileName","InvFileName1","InvFileName2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","VA0422ZZ","1","2007","7","05-01-2007_11_33_22_3096668631.307.pdf","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","VA0422ZZ","2","2007","7","05-01-2007_11_38_47_3096668631.307.pdf","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","VA0422ZZ-01","1","2007","7","05-01-2007_11_51_41_3096915545.407.pdf","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","VA0422ZZ-01","2","2007","7","05-01-2007_11_52_24_3096915545.407.pdf","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","KY010101","2","2007","7","05-01-2007_01_31_18_saglexcoop407.pdf","NULL","NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","Table Name: tblInvoiceStatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","StatusDate","Status",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","2007-05-01 00:00:00.000","Uploaded/Verified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","2007-05-01 00:00:00.000","Uploaded/Verified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","2007-05-01 00:00:00.000","Uploaded/Verified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","2007-05-01 00:00:00.000","Uploaded/Verified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","2007-05-01 00:00:00.000","Uploaded/Verified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
